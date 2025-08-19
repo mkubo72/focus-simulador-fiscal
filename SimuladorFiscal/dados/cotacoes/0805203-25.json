@@ -1,0 +1,40 @@
+{
+  "empresa_cliente": "P. ARAUJO",
+  "cliente": "CARLOS",
+  "depto": "COMPRAS",
+  "email": "",
+  "prazo": "7 A 10",
+  "condpag": "30",
+  "observacao": "",
+  "numero": "0805203-25",
+  "data": "05/08/2025",
+  "vendedor_nome": "Marcelo Kubo",
+  "vendedor_codigo": "2",
+  "itens": [
+    {
+      "uf_origem": "SP",
+      "uf_destino": "SP",
+      "cf": "B",
+      "operacao": "Revenda",
+      "qtd": 1.0,
+      "unitario": 9.0,
+      "valor": 9.0,
+      "ncm": "8536.1000",
+      "descricao": "Fusível até 1000V",
+      "descricao_usuario": "FUS 14X51 TESTE",
+      "ipi": 0.88,
+      "icms_origem": 1.62,
+      "icms_st": 1.05,
+      "difal": 0,
+      "total_cliente": 10.93,
+      "ipi_pct": 9.75,
+      "icms_int_pct": 18.0,
+      "fcp": 0
+    }
+  ],
+  "total_produtos": 9.0,
+  "total_ipi": 0.88,
+  "total_icms_st": 1.05,
+  "total_difal": 0,
+  "total_geral": 10.93
+}

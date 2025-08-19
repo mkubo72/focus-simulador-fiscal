@@ -1,0 +1,40 @@
+{
+  "empresa_cliente": "JAMAS",
+  "cliente": "Sra Glaucia",
+  "depto": "Compras",
+  "email": "engelight@terra.com.br",
+  "prazo": "7 A 10",
+  "condpag": "30",
+  "observacao": "MATERIAL URGENTE",
+  "numero": "0728201-25",
+  "data": "28/07/2025",
+  "vendedor_nome": "Marcelo Kubo",
+  "vendedor_codigo": "2",
+  "itens": [
+    {
+      "uf_origem": "SP",
+      "uf_destino": "PE",
+      "cf": "A",
+      "operacao": "Consumo sem IE",
+      "qtd": 3.0,
+      "unitario": 312.0,
+      "valor": 936.0,
+      "ncm": "8535.1000",
+      "descricao": "Fusível alta tensão (>1000V)",
+      "descricao_usuario": "FUS HH 5A/25KV - 475MM",
+      "ipi": 0.0,
+      "icms_origem": 65.52,
+      "icms_st": 0,
+      "difal": 126.36,
+      "total_cliente": 1062.36,
+      "ipi_pct": 0.0,
+      "icms_int_pct": 20.5,
+      "fcp": 0.0
+    }
+  ],
+  "total_produtos": 936.0,
+  "total_ipi": 0.0,
+  "total_icms_st": 0,
+  "total_difal": 126.36,
+  "total_geral": 936.0
+}

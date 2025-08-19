@@ -1,0 +1,40 @@
+{
+  "empresa_cliente": "Solugy",
+  "cliente": "Gabriel",
+  "depto": "Dir Comercial",
+  "email": "gabriel.fernandes@solugy.com.br",
+  "prazo": "5 a 7",
+  "condpag": "28 DDL",
+  "observacao": "",
+  "numero": "0725203-25",
+  "data": "25/07/2025",
+  "vendedor_nome": "Marcelo Kubo",
+  "vendedor_codigo": "2",
+  "itens": [
+    {
+      "uf_origem": "SP",
+      "uf_destino": "SP",
+      "cf": "D",
+      "operacao": "Revenda",
+      "qtd": 50.0,
+      "unitario": 368.0,
+      "valor": 18400.0,
+      "ncm": "8535.3019",
+      "descricao": "Chave seccionadora",
+      "descricao_usuario": "BLOQUEIO MECANICO KIRK",
+      "ipi": 598.0,
+      "icms_origem": 3419.64,
+      "icms_st": 1641.43,
+      "difal": 0,
+      "total_cliente": 20639.43,
+      "ipi_pct": 3.25,
+      "icms_int_pct": 18.0,
+      "fcp": 0
+    }
+  ],
+  "total_produtos": 18400.0,
+  "total_ipi": 598.0,
+  "total_icms_st": 1641.43,
+  "total_difal": 0,
+  "total_geral": 20639.43
+}

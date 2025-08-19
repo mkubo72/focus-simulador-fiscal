@@ -1,0 +1,41 @@
+{
+  "empresa_cliente": "JM",
+  "cliente": "Srta Solante",
+  "depto": "",
+  "email": "",
+  "prazo": "",
+  "condpag": "",
+  "observacao": "",
+  "numero": "0815201-25",
+  "data": "15/08/2025",
+  "vendedor_nome": "Marcelo Kubo",
+  "vendedor_codigo": "2",
+  "itens": [
+    {
+      "uf_origem": "SP",
+      "uf_destino": "RJ",
+      "cf": "D",
+      "operacao": "Revenda",
+      "qtd": 1.0,
+      "unitario": 550.0,
+      "valor": 550.0,
+      "ncm": "8535.3019",
+      "descricao": "Chave seccionadora",
+      "descricao_usuario": "TESTE RJ CH REVENDA",
+      "ipi": 17.88,
+      "icms_origem": 66.0,
+      "icms_st": 134.64000000000001,
+      "fcp_st": 18.24,
+      "difal": 0.0,
+      "total_cliente": 702.52,
+      "ipi_pct": 3.25,
+      "icms_int_pct": 20.0,
+      "fcp": 18.24
+    }
+  ],
+  "total_produtos": 550.0,
+  "total_ipi": 17.88,
+  "total_icms_st": 134.64000000000001,
+  "total_difal": 0.0,
+  "total_geral": 702.52
+}
